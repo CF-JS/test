@@ -1,4 +1,4 @@
 <?php
-echo 666;
-
+$vv=666
+echo vv;
 ?>
